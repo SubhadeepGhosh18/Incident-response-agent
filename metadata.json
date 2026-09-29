@@ -1,0 +1,6 @@
+{
+  "name": "Episodic Incident Response Agent",
+  "description": "Experience-Augmented SRE Copilot via Four-Tier Engineering Memory (Episodic, Procedural, Semantic, Outcome) for sub-2-minute MTTR incident triage, live telemetry grounding, and human-gated remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
